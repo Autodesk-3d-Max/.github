@@ -1,7 +1,7 @@
 # Autodesk 3ds Max - Professional 3D Modeling and Rendering Software
 
 <p align="center">
-  <img src="https://www.uli-ludwig.de/mediafiles/s360/s360_viewboxes/Autodesk-3ds-Max-Logo.png" alt="Autodesk 3ds Max Logo"/>
+  <img src="https://i.pinimg.com/736x/5d/70/28/5d7028f06b3f3c0bb8ad6e1c2b5a0192.jpg" alt="Autodesk 3ds Max Logo"/>
 </p>
 
 <p align="center">
